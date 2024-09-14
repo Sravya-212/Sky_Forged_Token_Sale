@@ -20,5 +20,8 @@ After the sale is completed, the owner can withdraw any unsold tokens or remaini
 After the sale is over, buyers can claim their purchased tokens. The function transfers tokens from the contract to the buyer.
 
 ## Events:
-# Purchase: Triggered whenever a token purchase is made.
-# TokensClaimed: Triggered when a buyer claims their tokens after the sale.
+# Purchase: 
+Triggered whenever a token purchase is made.
+
+# TokensClaimed: 
+Triggered when a buyer claims their tokens after the sale.
